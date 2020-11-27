@@ -1,8 +1,11 @@
-.button {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+.title {
+color: white;
+text-align: center;
+font-size: 50px;
+}
+
+.Paragraph {
+color: white;
+text-align: center;
+font-size: 30;
+}
